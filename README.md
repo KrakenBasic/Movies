@@ -1,8 +1,6 @@
 # Movies
 
 This repo is for top 10 of movies.
-
-
 ## Top 10 Best Actors
 
 1. Tom Hanks
@@ -43,3 +41,14 @@ This repo is for top 10 of movies.
 9. Ready player One
 10. The Martian
 
+##Top 10 Super Heroes Movies
+1. Avengers Infinity war
+2. Batman The Dark Knight
+3. Batman Begins
+4. Batman The Dark Knight Returns
+5. X-men: Days of future past
+6. X-men: Apocalypse
+7. Guardians Of The Galaxy
+8. The Amazing Spider-man 2
+9. Black Panther
+10. Kick Ass
