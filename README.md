@@ -29,3 +29,15 @@ This repo is for top 10 of movies.
 8. E.T.
 9. Ready player One
 10. The Martian
+
+## Top 10 Worst Movies
++ Batman & Robin
++ Twilight Saga
++ The Last Airbender
++ The Emoji Movie
++ DragonBall Evolution
++ Catwoman
++ Superman Returns
++ Fifty Shades
++ Independence Day: Resurgence
++ Death Note
