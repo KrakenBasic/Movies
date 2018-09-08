@@ -15,16 +15,16 @@ This repo is for top 10 of movies.
 10. Matt Damon
 
 ## Top 10 Animation Movies
-+ Up
-+ Toy Story 3
-+ WALL-E
-+ The Jungle Book
-+ Finding Nemo
-+ Ratatoullie
-+ The Lion King
-+ Sherk
-+ Brave
-+ Inside Out
+1. Up
+2. Toy Story 3
+3. WALL-E
+4. The Jungle Book
+5. Finding Nemo
+6. Ratatoullie
+7. The Lion King
+8. Sherk
+9. Brave
+10. Inside Out
 
 
 ## Science fiction top.
@@ -43,16 +43,16 @@ This repo is for top 10 of movies.
 
 
 ## Top 10 Worst Movies
-+ Batman & Robin
-+ Twilight Saga
-+ The Last Airbender
-+ The Emoji Movie
-+ DragonBall Evolution
-+ Catwoman
-+ Superman Returns
-+ Fifty Shades
-+ Independence Day: Resurgence
-+ Death Note
+1. Batman & Robin
+2. Twilight Saga
+3. The Last Airbender
+4. The Emoji Movie
+5. DragonBall Evolution
+6. Catwoman
+7. Superman Returns
+8. Fifty Shades
+9. Independence Day: Resurgence
+10. Death Note
 
 ## Top 10 Super Heroes Movies
 1. Avengers Infinity war
