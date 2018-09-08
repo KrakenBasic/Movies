@@ -33,13 +33,12 @@ This repo is for top 10 of movies.
 2. Star wars III
 3. Back to the future
 4. Alien
-4. Terminator 3
-5. Jurassic Park
-6. The clockwork orange
-7. Matrix
-8. E.T.
-9. Ready player One
-10. The Martian
+5. Terminator 3
+6. Jurassic Park
+7. The clockwork orange
+8. Matrix
+9. E.T.
+10. Ready player One
 
 ##Top 10 Super Heroes Movies
 1. Avengers Infinity war
@@ -52,3 +51,16 @@ This repo is for top 10 of movies.
 8. The Amazing Spider-man 2
 9. Black Panther
 10. Kick Ass
+
+## Anime top
+
+1. Spirited Away
+2. Your name
+3. Akira
+4. Princess Mononoke
+5. Grave of the Firefiles
+6. My neighbor Totoro
+7. Howl's Moving Castle
+8. Koe No Katachi
+9. Neon Genesis Evangelion - The End of Evangelion
+10. Ghost In The Shell
