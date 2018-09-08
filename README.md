@@ -43,3 +43,15 @@ This repo is for top 10 of movies.
 9. Ready player One
 10. The Martian
 
+## Top Samuel L Jackson's Movies
+
+1. Coach Carter
+2. Afro Samurai
+3. Pulp Fiction
+4. Kingsman
+5. Django Unchained
+6. SWAT
+7. Star Wars prequel triology
+8. Avengers
+9. A Time to Kill
+10. The Incredibles 
