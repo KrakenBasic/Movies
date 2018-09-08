@@ -77,3 +77,17 @@ This repo is for top 10 of movies.
 8. Amar te Duele
 9. The Proposal
 10.Titanic
+
+## Top Samuel L Jackson's Movies
+
+1. Coach Carter
+2. Afro Samurai
+3. Pulp Fiction
+4. Kingsman
+5. Django Unchained
+6. SWAT
+7. Star Wars prequel triology
+8. Avengers
+9. A Time to Kill
+10. The Incredibles 
+
