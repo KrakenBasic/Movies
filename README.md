@@ -52,3 +52,15 @@ This repo is for top 10 of movies.
 8. The Amazing Spider-man 2
 9. Black Panther
 10. Kick Ass
+
+## Love Movies
+1. Valentine's Day
+2. Love Rosie
+3. Eternal Sunshine of the Spotless Mind
+4. 6 Years
+5. The Notebook
+6. The First Time
+7. The Best Of Me
+8. Amar te Duele
+9. The Proposal
+10.Titanic
